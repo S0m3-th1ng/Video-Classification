@@ -1,0 +1,1 @@
+Recognizing the patterns in the video. This is an ongoing project.
