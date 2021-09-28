@@ -1,1 +1,1 @@
-Recognizing the patterns in the video. This is an ongoing project.
+In this Project we are going to Recognize the patterns in the video.So that we can classify the Video based on patterns.
